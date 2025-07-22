@@ -12,6 +12,7 @@
 📁 Dataset: Daily Total Female Births - CA, 1959
 
 📌 Project Motivation
+
 In a world where data-driven planning is essential, forecasting birth rates plays a crucial role in:
 
 📅 Hospital and staff scheduling
